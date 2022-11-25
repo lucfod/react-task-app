@@ -3,8 +3,8 @@ Simple React Task App (Javascript &amp; Typescript)
 
 # folders
 
-  - task-javascript: contain app
-  - task-typescript: contain app with typescript
+  - task-javascript: app with react
+  - task-typescript: app with react typescript
 
 # css
 
